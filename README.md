@@ -125,6 +125,6 @@ For future Machine Learning models, preprocessing operations such as imputation,
 
 **Ziad Mohamed**
 
-Computer Science Student | Machine Learning Enthusiast
+Computer Science Student | AI Enthusiast
 
 GitHub: [Ziadmhmd47](https://github.com/Ziadmhmd47)
